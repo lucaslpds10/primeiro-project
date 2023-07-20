@@ -3,3 +3,6 @@
 >status do projeto: em desenvolvimento
 
 para rodar este projeto: por favor utilize o vscode
+...
+node app.js
+...
